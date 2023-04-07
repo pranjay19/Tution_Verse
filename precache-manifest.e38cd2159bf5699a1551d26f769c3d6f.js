@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9720474aa747271b6fa9",
-    "url": "/Tution_Verse/static/css/main.94c53706.chunk.css"
+    "revision": "146f8b16b6e9b5f7a968",
+    "url": "/Tution_Verse/static/css/main.14b7dd45.chunk.css"
   },
   {
-    "revision": "9720474aa747271b6fa9",
-    "url": "/Tution_Verse/static/js/main.9720474a.chunk.js"
+    "revision": "146f8b16b6e9b5f7a968",
+    "url": "/Tution_Verse/static/js/main.146f8b16.chunk.js"
   },
   {
     "revision": "4732dc574e7f56a2904c",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Tution_Verse/static/media/tester.b9c0b14a.jpeg"
   },
   {
-    "revision": "859985b25a8982ffe08d66208256da04",
+    "revision": "05402c0ed53d912b6e075fe6774329c4",
     "url": "/Tution_Verse/index.html"
   }
 ];
