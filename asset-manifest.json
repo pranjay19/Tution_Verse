@@ -1,7 +1,7 @@
 {
-  "main.css": "/Tution_Verse/static/css/main.80807ef2.chunk.css",
-  "main.js": "/Tution_Verse/static/js/main.dfbddc11.chunk.js",
-  "main.js.map": "/Tution_Verse/static/js/main.dfbddc11.chunk.js.map",
+  "main.css": "/Tution_Verse/static/css/main.f4df64c2.chunk.css",
+  "main.js": "/Tution_Verse/static/js/main.9ea306d6.chunk.js",
+  "main.js.map": "/Tution_Verse/static/js/main.9ea306d6.chunk.js.map",
   "static/js/1.4732dc57.chunk.js": "/Tution_Verse/static/js/1.4732dc57.chunk.js",
   "static/js/1.4732dc57.chunk.js.map": "/Tution_Verse/static/js/1.4732dc57.chunk.js.map",
   "runtime~main.js": "/Tution_Verse/static/js/runtime~main.9162d90c.js",
@@ -11,8 +11,8 @@
   "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.c01253e4.gif",
   "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.e52235c4.png",
   "static/media/tester.jpeg": "/Tution_Verse/static/media/tester.b9c0b14a.jpeg",
-  "static/css/main.80807ef2.chunk.css.map": "/Tution_Verse/static/css/main.80807ef2.chunk.css.map",
+  "static/css/main.f4df64c2.chunk.css.map": "/Tution_Verse/static/css/main.f4df64c2.chunk.css.map",
   "index.html": "/Tution_Verse/index.html",
-  "precache-manifest.d9d21ccd0cbfb9e898c0a87950a73ad3.js": "/Tution_Verse/precache-manifest.d9d21ccd0cbfb9e898c0a87950a73ad3.js",
+  "precache-manifest.59c019391c0325196b663a3ab7cbb71c.js": "/Tution_Verse/precache-manifest.59c019391c0325196b663a3ab7cbb71c.js",
   "service-worker.js": "/Tution_Verse/service-worker.js"
 }
