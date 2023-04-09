@@ -1,18 +1,23 @@
 {
-  "main.css": "/Tution_Verse/static/css/main.aa401b70.chunk.css",
-  "main.js": "/Tution_Verse/static/js/main.415a0fdf.chunk.js",
-  "main.js.map": "/Tution_Verse/static/js/main.415a0fdf.chunk.js.map",
-  "static/js/1.85afdf12.chunk.js": "/Tution_Verse/static/js/1.85afdf12.chunk.js",
-  "static/js/1.85afdf12.chunk.js.map": "/Tution_Verse/static/js/1.85afdf12.chunk.js.map",
-  "runtime~main.js": "/Tution_Verse/static/js/runtime~main.9162d90c.js",
-  "runtime~main.js.map": "/Tution_Verse/static/js/runtime~main.9162d90c.js.map",
-  "static/media/Logo.svg": "/Tution_Verse/static/media/Logo.0d999b66.svg",
-  "static/media/home-banner-background.png": "/Tution_Verse/static/media/home-banner-background.0744e3c1.png",
-  "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.c01253e4.gif",
-  "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.e52235c4.png",
-  "static/media/tester.jpeg": "/Tution_Verse/static/media/tester.b9c0b14a.jpeg",
-  "static/css/main.aa401b70.chunk.css.map": "/Tution_Verse/static/css/main.aa401b70.chunk.css.map",
-  "index.html": "/Tution_Verse/index.html",
-  "precache-manifest.a2721156f4a2735b3af5f85b9402809b.js": "/Tution_Verse/precache-manifest.a2721156f4a2735b3af5f85b9402809b.js",
-  "service-worker.js": "/Tution_Verse/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.24ceeeb1.css",
+    "main.js": "/static/js/main.1274bd5f.js",
+    "static/media/github.ico": "/static/media/github.e33fe7aea9052de107f9.ico",
+    "static/media/linkedin_log.ico": "/static/media/linkedin_log.fdee19934250aa2ca4a1.ico",
+    "static/media/resume.ico": "/static/media/resume.cfb3107b250172f71ad4.ico",
+    "static/media/moonlight.svg": "/static/media/moonlight.809c22ad99b2ee66645fb3a051324b55.svg",
+    "static/media/cloud1.svg": "/static/media/cloud1.24d857d1cc48821eaa03dcbde932f4e0.svg",
+    "static/media/b_cloud02.svg": "/static/media/b_cloud02.497b63a42168264efabf0ddd3c62ea75.svg",
+    "static/media/b_cloud01.svg": "/static/media/b_cloud01.875f74d3fc6146df15f687d7c98d9040.svg",
+    "static/media/cloud3.svg": "/static/media/cloud3.4e113a3f58e442e70cc6fdf2f93bfbe2.svg",
+    "static/media/cloud2.svg": "/static/media/cloud2.923cc5929c8fc8e1f73b14e85d2280b3.svg",
+    "static/media/moon.svg": "/static/media/moon.d02c41756a7e66745e1a3b6271b71c8f.svg",
+    "index.html": "/index.html",
+    "main.24ceeeb1.css.map": "/static/css/main.24ceeeb1.css.map",
+    "main.1274bd5f.js.map": "/static/js/main.1274bd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ceeeb1.css",
+    "static/js/main.1274bd5f.js"
+  ]
 }
