@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Tution_Verse/static/css/main.c63ba39a.css",
-    "main.js": "/Tution_Verse/static/js/main.787c2786.js",
+    "main.css": "/Tution_Verse/static/css/main.c34e77f7.css",
+    "main.js": "/Tution_Verse/static/js/main.ec732b95.js",
+    "static/media/learnmore.gif": "/Tution_Verse/static/media/learnmore.f03b38926bcff2817052.gif",
     "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.7c572077f9e4b431ffcb.png",
     "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.1b44bb771b812854a11c.gif",
     "static/media/thankyou.png": "/Tution_Verse/static/media/thankyou.cbd4689d1f09b9372e23.png",
@@ -10,11 +11,11 @@
     "static/media/Logo.svg": "/Tution_Verse/static/media/Logo.bb6aa23deb69dcb3c5823629eb0a984d.svg",
     "static/media/home-banner-background.png": "/Tution_Verse/static/media/home-banner-background.585600da7ff85661555e.png",
     "index.html": "/Tution_Verse/index.html",
-    "main.c63ba39a.css.map": "/Tution_Verse/static/css/main.c63ba39a.css.map",
-    "main.787c2786.js.map": "/Tution_Verse/static/js/main.787c2786.js.map"
+    "main.c34e77f7.css.map": "/Tution_Verse/static/css/main.c34e77f7.css.map",
+    "main.ec732b95.js.map": "/Tution_Verse/static/js/main.ec732b95.js.map"
   },
   "entrypoints": [
-    "static/css/main.c63ba39a.css",
-    "static/js/main.787c2786.js"
+    "static/css/main.c34e77f7.css",
+    "static/js/main.ec732b95.js"
   ]
 }
