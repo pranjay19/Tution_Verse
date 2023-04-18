@@ -1,22 +1,22 @@
 {
-  "files": {
-    "main.css": "/Tution_Verse/static/css/main.148ffcea.css",
-    "main.js": "/Tution_Verse/static/js/main.2c650bb5.js",
-    "static/media/learnmore.gif": "/Tution_Verse/static/media/learnmore.f03b38926bcff2817052.gif",
-    "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.7c572077f9e4b431ffcb.png",
-    "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.1b44bb771b812854a11c.gif",
-    "static/media/thankyou.png": "/Tution_Verse/static/media/thankyou.cbd4689d1f09b9372e23.png",
-    "static/media/child.png": "/Tution_Verse/static/media/child.185751af3f922eecb44e.png",
-    "static/media/learnmore-2.png": "/Tution_Verse/static/media/learnmore-2.7575fb0e20110ec52742.png",
-    "static/media/tester.jpeg": "/Tution_Verse/static/media/tester.423caa49cde93ed41b86.jpeg",
-    "static/media/Logo.svg": "/Tution_Verse/static/media/Logo.bb6aa23deb69dcb3c5823629eb0a984d.svg",
-    "static/media/home-banner-background.png": "/Tution_Verse/static/media/home-banner-background.585600da7ff85661555e.png",
-    "index.html": "/Tution_Verse/index.html",
-    "main.148ffcea.css.map": "/Tution_Verse/static/css/main.148ffcea.css.map",
-    "main.2c650bb5.js.map": "/Tution_Verse/static/js/main.2c650bb5.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.148ffcea.css",
-    "static/js/main.2c650bb5.js"
-  ]
+  "main.css": "/Tution_Verse/static/css/main.97af402e.chunk.css",
+  "main.js": "/Tution_Verse/static/js/main.458d45cd.chunk.js",
+  "main.js.map": "/Tution_Verse/static/js/main.458d45cd.chunk.js.map",
+  "static/js/1.11df9003.chunk.js": "/Tution_Verse/static/js/1.11df9003.chunk.js",
+  "static/js/1.11df9003.chunk.js.map": "/Tution_Verse/static/js/1.11df9003.chunk.js.map",
+  "runtime~main.js": "/Tution_Verse/static/js/runtime~main.9162d90c.js",
+  "runtime~main.js.map": "/Tution_Verse/static/js/runtime~main.9162d90c.js.map",
+  "static/media/home-banner-background.png": "/Tution_Verse/static/media/home-banner-background.0744e3c1.png",
+  "static/media/Logo.svg": "/Tution_Verse/static/media/Logo.0d999b66.svg",
+  "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.c01253e4.gif",
+  "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.e52235c4.png",
+  "static/media/tester.jpeg": "/Tution_Verse/static/media/tester.b9c0b14a.jpeg",
+  "static/media/thankyou.png": "/Tution_Verse/static/media/thankyou.c991b443.png",
+  "static/media/child.png": "/Tution_Verse/static/media/child.d59e8bb0.png",
+  "static/media/learnmore.gif": "/Tution_Verse/static/media/learnmore.68ddd506.gif",
+  "static/media/learnmore-2.png": "/Tution_Verse/static/media/learnmore-2.9686de49.png",
+  "static/css/main.97af402e.chunk.css.map": "/Tution_Verse/static/css/main.97af402e.chunk.css.map",
+  "index.html": "/Tution_Verse/index.html",
+  "precache-manifest.01099cf7a9d62b280a4d2934031f94b4.js": "/Tution_Verse/precache-manifest.01099cf7a9d62b280a4d2934031f94b4.js",
+  "service-worker.js": "/Tution_Verse/service-worker.js"
 }
