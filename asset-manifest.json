@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tution_Verse/static/css/main.148ffcea.css",
-    "main.js": "/Tution_Verse/static/js/main.2c650bb5.js",
+    "main.js": "/Tution_Verse/static/js/main.ed25ae85.js",
     "static/media/learnmore.gif": "/Tution_Verse/static/media/learnmore.f03b38926bcff2817052.gif",
     "static/media/about-background-image.png": "/Tution_Verse/static/media/about-background-image.7c572077f9e4b431ffcb.png",
     "static/media/home-banner-image.gif": "/Tution_Verse/static/media/home-banner-image.1b44bb771b812854a11c.gif",
@@ -13,10 +13,10 @@
     "static/media/home-banner-background.png": "/Tution_Verse/static/media/home-banner-background.585600da7ff85661555e.png",
     "index.html": "/Tution_Verse/index.html",
     "main.148ffcea.css.map": "/Tution_Verse/static/css/main.148ffcea.css.map",
-    "main.2c650bb5.js.map": "/Tution_Verse/static/js/main.2c650bb5.js.map"
+    "main.ed25ae85.js.map": "/Tution_Verse/static/js/main.ed25ae85.js.map"
   },
   "entrypoints": [
     "static/css/main.148ffcea.css",
-    "static/js/main.2c650bb5.js"
+    "static/js/main.ed25ae85.js"
   ]
 }
